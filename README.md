@@ -30,7 +30,7 @@ After categorizing all data, we can compare the predicted labels with the actual
 
 **5. Complexity:** Sometimes in decision trees, it may take so long to do the operations and also we have to mention the complexity of operations. (For example, for entropy calculation it's needed to calculate the logarithm of numbers). Another reason for this complexity is that because the decisions made in tree nodes are limited to the binary outputs, this algorithm can't handle complicated operations. 
 
-**6. Not useful for continuous data:** This method is not good enough for continuous values and we can see a lower performance if the dataset contains these kinds of value. So, for this reason, when data is being classified into different classes, some information may be lost in this process. 
+**6. Not useful for continuous data:** This method is not good enough for continuous values and we can see a lower performance if the dataset contains these kinds of values. So, for this reason, when data is being classified into different classes, some information may be lost in this process. 
 
 ### Suggesting Solutions
 #### **1) Bagging**
